@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'navigation_button.dart';
 
 class BottomBar extends StatelessWidget {

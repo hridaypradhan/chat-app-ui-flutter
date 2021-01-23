@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'notification_badge.dart';
 
 class NavigationButton extends StatelessWidget {
