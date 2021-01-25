@@ -8,9 +8,7 @@ class StoryIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.symmetric(
-        horizontal: 7.0,
-      ),
+      margin: EdgeInsets.symmetric(horizontal: 7.0),
       child: Column(
         children: [
           CircleAvatar(
